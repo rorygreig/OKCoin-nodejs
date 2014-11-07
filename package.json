@@ -1,0 +1,28 @@
+{
+  "name": "OKCoin",
+  "version": "0.1.0",
+  "gypfile": true,
+  "scripts": {
+    "start": "node test.js"
+  },
+  "description": "A wrapper for the OKCoin international Bitcoin Exchange websocket API",
+  "main": "OKCoin.js",
+  "keywords": [
+    "OKCoin",
+    "bitcoin",
+    "cryptocurrency",
+    "exchange",
+    "websocket"
+  ],
+  "author": {
+    "name": "Rory Greig",
+    "email": "rorygreig@gmail.com"
+  },
+  "dependencies": {
+    "ws": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rorygreig/OKCoin-nodejs.git"
+  }
+}
